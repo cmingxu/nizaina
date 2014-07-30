@@ -1,4 +1,7 @@
 * website
-* accept client socket connection
-* socket.io display on map
+* bootstrap
+* accept client http connection
 * map render
+* socket.io display spot on map
+
+* android client
